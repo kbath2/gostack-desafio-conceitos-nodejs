@@ -1,4 +1,4 @@
-<h1>:open_file_folder: 🏆 Primeiro desafio do bootcamp gostack  | Conceitos de NodeJs</h1>
+<h1>🏆 Primeiro desafio do bootcamp gostack  | Conceitos de NodeJs</h1>
 
 Desafio proposto para colocar em prática o que aprendi com os conceitos do Node.JS
 
