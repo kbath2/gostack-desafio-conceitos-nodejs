@@ -41,7 +41,7 @@ $ yarn test
 <br>
 
 
-### 📱 Me acompanhe nas minhas redes sociais.
+### 📱 Me acompanhe nas redes sociais.
 
 <br>
 
